@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: twill
+Version: 3.0.1
+Summary: twill web browsing and testing language and associated utilities.
+Home-page: https://github.com/twill-tools/twill
+Author: C. Titus Brown, Ben R. Taylor et al.
+Author-email: titus@idyll.org
+Maintainer: C. Titus Brown
+Maintainer-email: titus@idyll.org
+License: MIT
+Download-URL: https://pypi.org/project/twill/
+Project-URL: Source, https://github.com/twill-tools/twill
+Project-URL: Issues, https://github.com/twill-tools/twill/issues
+Project-URL: Documentation, https://twill-tools.github.io/twill/
+Project-URL: ChangeLog, https://twill-tools.github.io/twill/changelog.html
+Platform: UNKNOWN
+Classifier: Development Status :: 6 - Mature
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Other Scripting Engines
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development :: Testing
+Description-Content-Type: text/markdown
+Provides-Extra: docs
+Provides-Extra: tidy
+Provides-Extra: tests
+License-File: LICENSE
+
+twill: a simple scripting language for web browsing
+===================================================
+
+twill is a simple scripting language intended for programmatic or automated browsing of websites.
+
+The current version 3.0.1 supports Python 3.6 to 3.10.
+
+See also the [changelog](https://twill-tools.github.io/twill/changelog.html) for a summary of the things that have been changed and improved since version 2.0, and the [acknowledgements](https://twill-tools.github.io/twill/overview.html#acknowledgements) for a short overview of the earlier history of twill.
+
+The full [documentation](https://twill-tools.github.io/twill/) is included in the distribution and provided online.
+
+Copyright (c) by C. Titus Brown et al.
+
+Newer versions have been created and are maintained by [Christoph Zwerschke](https://github.com/Cito).
+ 
+twill is available for use, modification, and distribution under the MIT license.
+
+
